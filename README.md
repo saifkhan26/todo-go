@@ -1,10 +1,10 @@
 ### 1. Set Up Your Development Environment
 
-- [ ] Install Go on your machine. You can download it from the official [Go website](https://golang.org/dl/).
+- [x] Install Go on your machine. You can download it from the official [Go website](https://golang.org/dl/).
 
 ### 2. Create Your Project Structure
 
-- [ ] Set up a new directory for your project.
+- [x] Set up a new directory for your project.
 - [ ] Inside the project directory, create subdirectories for different components (e.g., `templates` for HTML templates).
 
 ### 3. Create a Simple HTTP Server
