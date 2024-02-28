@@ -2,6 +2,12 @@
 
 - [x] Install Go on your machine. You can download it from the official [Go website](https://golang.org/dl/).
 
+#### Tangent
+
+Tried starting without learning the basics, thought to learn on the way, :)
+Learned about variable, For loops, Conditionals, Switch statements
+Tried checking types of variables with reflect from stdlib
+
 ### 2. Create Your Project Structure
 
 - [x] Set up a new directory for your project.
